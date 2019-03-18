@@ -26,7 +26,7 @@
 
     <textarea name="mensagem" rows="7" cols="35"></textarea><br><br>
 
-    <div class="g-recaptcha" data-sitekey="6LcLW5gUAAAAAJ074ZVOUADKNnT9332pdBtr6JDL"></div>
+    <div class="g-recaptcha" data-sitekey="6LdiYZgUAAAAAEiqDJQlxMH2BxrAbKRP69ROGll6"></div>
 
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
